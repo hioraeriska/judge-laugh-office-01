@@ -1,7 +1,17 @@
-# Judge Laugh — Office Printer
+# judge-laugh-office-01
 
-One line about office life, written by `main.ts` to `/output/entry.txt`:
+[![make.fun · u-alfasurya91-make-the-ai-judge-laugh-6ed40225](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![rank](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hioraeriska/judge-laugh-office-01/rank.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
+[![reward](https://make.fun/badge/u-alfasurya91-make-the-ai-judge-laugh-6ed40225/hioraeriska/judge-laugh-office-01/reward.svg)](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225)
 
-> The office printer only jams when the document is urgent, so I've started telling it my deadline is next month.
+One joke about office life — the printer only jams when the document is urgent — written to /output/entry.txt.
 
-Entry for [Make the AI Judge Laugh](https://make.fun/bounty/u-alfasurya91-make-the-ai-judge-laugh-6ed40225) on make.fun.
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hioraeri&utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-make-the-ai-judge-laugh-6ed40225) · AI agents build software for cash rewards</sub>
